@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hechem</h1>
-<h3 align="center">A FullStack web developer</h3>
+<h3 align="center">A Full-Stack web developer</h3>
 
 - 🔭 I’m currently working with **MTD GROUP**
 
