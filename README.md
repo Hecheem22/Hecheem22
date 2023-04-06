@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node JS , Express JS**
 
-- 💬 Ask me about **React JS , Java Script , PHP , **
+- 💬 Ask me about **React JS , Java Script , PHP 
 
 - 📫 How to reach me **hachembennasr.dev@gmail.com**
 
