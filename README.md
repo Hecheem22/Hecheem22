@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with MTD GROUP
 
-- 🌱 I’m currently learning Node JS , Express JS**
+- 🌱 I’m currently learning Node JS , Express JS
 
 - 💬 Ask me about React JS , Java Script , PHP 
 
