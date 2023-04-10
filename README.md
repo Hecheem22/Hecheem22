@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hechem</h1>
 <h3 align="center">A Full-Stack web developer</h3>
 
-- 🔭 I’m currently working with **MTD GROUP**
+- 🔭 I’m currently working with MTD GROUP
 
-- 🌱 I’m currently learning **Node JS , Express JS**
+- 🌱 I’m currently learning Node JS , Express JS**
 
-- 💬 Ask me about **React JS , Java Script , PHP 
+- 💬 Ask me about React JS , Java Script , PHP 
 
 - 📫 How to reach me **hachembennasr.dev@gmail.com**
 
