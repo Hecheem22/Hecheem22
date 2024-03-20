@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Anfular JS , Next JS
 
-- 💬 Ask me about Java Scrip , React JS , Node JS , Express JS , PHP 
+- 💬 Ask me about Java Script , React JS , Node JS , Express JS , PHP 
 
 - 📫 How to reach me **hachembennasr.dev@gmail.com**
 
