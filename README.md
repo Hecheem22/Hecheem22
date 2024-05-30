@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with MEDICACOM
 
-- 🌱 I’m currently learning Angular JS 
+- 🌱 I’m currently learning Next JS 
 
 - 💬 Ask me about Java Script , React JS , Node JS , Express JS , PHP 
 
